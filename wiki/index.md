@@ -33,6 +33,12 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [心理的安全性](topics/psychological-safety.md) — 対人リスクを取っても罰されないという共有された信念。エドモンドソン
 - [成人発達理論](topics/adult-development-theory.md) — キーガンの発達段階（環境順応型・自己主導型・自己変容型）と変革への免疫
 
+### エンジニアリングキャリア
+
+- [エンジニアリングキャリアラダー（デュアルラダー）](topics/engineering-career-ladder.md) — マネジメントと IC の複線キャリアと振り子キャリア
+- [エンジニアリングマネージャー](topics/engineering-manager.md) — The Manager's Path。段階ごとに不連続に変わる EM の責務
+- [スタッフエンジニア](topics/staff-engineer.md) — Staff+ IC の4アーキタイプ。権限でなく影響力で動くロール
+
 ## Entities
 
 - [Andrej Karpathy](entities/andrej-karpathy.md) — AI 研究者。LLM Wiki パターンの提唱者
