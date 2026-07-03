@@ -11,6 +11,15 @@ Claude Code でこのリポジトリを開き、以下のスキルを使う:
 - `/query <質問>` — wiki を知識源として質問に答える
 - `/lint` — wiki の健全性チェック（矛盾・リンク切れ・孤立ページ等）
 
+## ビューワー
+
+```bash
+python3 -m http.server
+# → http://localhost:8000 を開く
+```
+
+`index.html` が `wiki/index.md` を起点に markdown をレンダリングする（ビルド不要）。
+
 ## 構成
 
 - [wiki/index.md](wiki/index.md) — ページカタログ（閲覧の起点）
