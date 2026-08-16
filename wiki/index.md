@@ -5,6 +5,7 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 ## Sources
 
 - [LLM Wiki (karpathy gist)](sources/karpathy-llm-wiki-gist.md) — 本リポジトリの原典。LLM が保守する永続的ナレッジベースのパターンを提唱する gist
+- [37signals Manager Playbook](sources/basecamp-manager-playbook.md) — 37signals の人事マネージャー向け実践プレイブック（全16章）
 
 ## Topics
 
@@ -33,6 +34,13 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [心理的安全性](topics/psychological-safety.md) — 対人リスクを取っても罰されないという共有された信念。エドモンドソン
 - [成人発達理論](topics/adult-development-theory.md) — キーガンの発達段階（環境順応型・自己主導型・自己変容型）と変革への免疫
 
+### マネジメント実務（37signals Manager Playbook）
+
+- [マネージャープレイブック: 基礎と権限の境界](topics/manager-playbook-foundations.md) — マネージャーの卓越性基準、給与・PTO・苦情対応で People Ops にエスカレートすべき境界線
+- [マネージャープレイブック: 採用とオンボーディング](topics/manager-playbook-hiring-onboarding.md) — People Ops と採用マネージャーの役割分担、採用プロセス全10ステップと新入社員立ち上げ
+- [マネージャープレイブック: パフォーマンス管理](topics/manager-playbook-performance.md) — SECフレームワーク、レビュー、建設的フィードバック、低パフォーマンス対応と解雇、困難な会話
+- [マネージャープレイブック: チーム育成](topics/manager-playbook-development.md) — 1:1、指示的/非指示的コーチング、認識、昇進判断、マルチプライアーマネージャーの5役割
+
 ### エンジニアリングキャリア
 
 - [エンジニアリングキャリアラダー（デュアルラダー）](topics/engineering-career-ladder.md) — マネジメントと IC の複線キャリアと振り子キャリア
@@ -43,3 +51,4 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 
 - [Andrej Karpathy](entities/andrej-karpathy.md) — AI 研究者。LLM Wiki パターンの提唱者
 - [野中郁次郎](entities/nonaka-ikujiro.md) — 組織的知識創造理論の提唱者。SECIモデル、『知識創造企業』『ワイズカンパニー』
+- [37signals](entities/37signals.md) — 人事マネージャー向けプレイブックの発行元
