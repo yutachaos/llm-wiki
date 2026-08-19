@@ -20,6 +20,10 @@ python3 -m http.server
 
 `index.html` が `wiki/index.md` を起点に markdown をレンダリングする（ビルド不要）。
 
+### GitHub Pages
+
+`main` への push（`index.html` / `wiki/**` / `sources/**` の変更）で [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) が自動デプロイする。公開URL: https://yutachaos.github.io/llm-wiki/
+
 ## 構成
 
 - [wiki/index.md](wiki/index.md) — ページカタログ（閲覧の起点）
