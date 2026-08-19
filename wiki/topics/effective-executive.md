@@ -24,7 +24,7 @@ updated: 2026-08-20
 
 ## マネジメントへの適用
 
-- 「意見の対立を歓迎する」という意思決定観は、[37signals Manager Playbook](../sources/basecamp-manager-playbook.md)の[昇進判断](manager-playbook-development.md)における「フレームワークの言語を無理に解釈して結論に寄せない、客観性を保つ」という原則と接続する
+- [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)の[昇進判断](manager-playbook-development.md)は「チェックボックスを埋めるだけでなく人間的判断を重視する」としているが、その判断が独善に陥らないためには、ドラッカーの「意見の対立がなければ決定しない」という規律が有効な補完になる
 - 強みを活かす発想は、[マネージャープレイブック: チーム育成](manager-playbook-development.md)のコーチング論（部下のやり方の多様性を尊重する）とも整合する
 - マネージャー自身の時間管理としても直接応用可能: 1on1・レビューなど「他人に権限委譲できない仕事」に集中し、代替可能なタスクは早めに手放す
 
