@@ -31,3 +31,4 @@ updated: 2026-07-03
 
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [スタッフエンジニア](staff-engineer.md)
+- [自己探求（Managing Oneself）](managing-oneself.md)

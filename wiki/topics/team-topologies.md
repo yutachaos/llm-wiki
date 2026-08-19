@@ -43,3 +43,4 @@ updated: 2026-07-03
 
 - [コンウェイの法則](conways-law.md)
 - [DORAメトリクス（Four Keys）](dora-metrics.md)
+- [連邦分権制（Federal Decentralization）](federal-decentralization.md)

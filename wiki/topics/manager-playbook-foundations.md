@@ -44,3 +44,5 @@ updated: 2026-08-16
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)
 - [マネージャープレイブック: 採用とオンボーディング](manager-playbook-hiring-onboarding.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
+- [知識労働者](knowledge-worker.md)
+- [連邦分権制（Federal Decentralization）](federal-decentralization.md)

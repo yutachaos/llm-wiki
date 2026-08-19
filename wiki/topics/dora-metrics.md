@@ -35,5 +35,7 @@ updated: 2026-07-03
 
 ## 関連
 
+- [体系的イノベーションの7つの機会](sources-of-innovation.md)
+
 - [スクラム](scrum.md)
 - [コンウェイの法則](conways-law.md)
