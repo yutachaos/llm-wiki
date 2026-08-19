@@ -49,13 +49,14 @@
   }
   nav h1 { font-size: 16px; margin: 0 0 12px; }
   nav h1 a { color: var(--fg); text-decoration: none; }
-  nav h2, nav h3 { font-size: 11px; text-transform: uppercase; color: var(--muted); margin: 18px 0 6px; }
   nav ul { list-style: none; padding: 0; margin: 0; }
-  nav li { margin: 2px 0; }
-  nav a { display: block; padding: 3px 8px; border-radius: 6px; color: var(--fg); text-decoration: none; }
+  nav ul + ul { margin-top: 10px; }
+  nav li { margin: 1px 0; }
+  nav a { display: block; padding: 6px 8px; border-radius: 6px; color: var(--fg); text-decoration: none; font-size: 13px; line-height: 1.4; }
   nav a:hover { background: color-mix(in srgb, var(--accent) 12%, transparent); }
   nav a.active { background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); }
-  nav p { display: none; }
+  nav a .desc { display: block; margin-top: 2px; font-size: 11px; color: var(--muted); }
+  nav a.active .desc { color: inherit; opacity: 0.8; }
   main { flex: 1; min-width: 0; display: flex; justify-content: center; }
   article { max-width: 780px; width: 100%; padding: 40px 48px 80px; line-height: 1.75; }
   article h1 { border-bottom: 1px solid var(--border); padding-bottom: 8px; }
@@ -128,11 +129,33 @@ async function render() {
   window.scrollTo(0, 0);
 }
 
+// 見出し(##/###のカテゴリ名)は削除し、各項目はタイトル+説明を1つのクリック領域にまとめる
+function simplifySidebar(sidebar) {
+  sidebar.querySelectorAll('h2, h3').forEach(el => el.remove());
+  sidebar.querySelectorAll('li').forEach(li => {
+    const a = li.querySelector(':scope > a');
+    if (!a) return;
+    let desc = '';
+    while (a.nextSibling) {
+      desc += a.nextSibling.textContent;
+      a.nextSibling.remove();
+    }
+    desc = desc.replace(/^[\s—-]+/, '').trim();
+    if (desc) {
+      const span = document.createElement('span');
+      span.className = 'desc';
+      span.textContent = desc;
+      a.appendChild(span);
+    }
+  });
+}
+
 async function init() {
   const index = await fetchMd(HOME);
   const sidebar = document.getElementById('sidebar');
   sidebar.innerHTML = marked.parse(index.replace(/^# Index$/m, `# [llm-wiki](#${HOME})`));
   rewriteLinks(sidebar, HOME);
+  simplifySidebar(sidebar);
   window.addEventListener('hashchange', render);
   render();
 }
