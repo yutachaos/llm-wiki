@@ -6,6 +6,12 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 
 - [LLM Wiki (karpathy gist)](sources/karpathy-llm-wiki-gist.md) — 本リポジトリの原典。LLM が保守する永続的ナレッジベースのパターンを提唱する gist
 - [37signals Manager Playbook](sources/basecamp-manager-playbook.md) — 37signals の人事マネージャー向け実践プレイブック（全16章）
+- [Platform Engineering 概説（2026年時点）](sources/platform-engineering-overview.md) — IDP・golden paths・AIとの融合を含む2026年時点の調査データまとめ
+- [CNCF Platforms White Paper](sources/cncf-platforms-white-paper.md) — CNCFによるplatform / platform engineeringの一次定義・成熟度モデル・測定方法
+- [What I Talk About When I Talk About Platforms（Evan Bottcher）](sources/evan-bottcher-platforms-essay.md) — thinnest viable platform / paved roadの源流となった2018年のエッセイ
+- [ThoughtWorks Technology Radar — Platform Teams関連ブリップ](sources/thoughtworks-radar-platform-teams.md) — platform team推奨（Adopt）と失敗パターン批判（Hold）の両論
+- [Backstage導入ガイド（Earthly）](sources/backstage-adoption-guide.md) — 20以上の組織の知見に基づくBackstage導入コスト・失敗パターン
+- [SPACE framework と DX Core 4](sources/dx-core-4-space-framework.md) — 開発者生産性測定フレームワークの変遷
 
 ## Topics
 
@@ -28,6 +34,8 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [DORAメトリクス（Four Keys）](topics/dora-metrics.md) — デリバリーパフォーマンスの4指標。速度と安定性は両立する
 - [コンウェイの法則](topics/conways-law.md) — 組織のコミュニケーション構造がアーキテクチャに写像される
 - [チームトポロジー](topics/team-topologies.md) — 認知負荷を制約とした4つのチームタイプと3つのインタラクションモード
+- [Platform Engineering](topics/platform-engineering.md) — IDP・golden pathsによる開発者セルフサービス化とAIとの融合
+- [SPACE framework と DX Core 4](topics/space-dx-core4-metrics.md) — DORAを超えて開発者体験まで測る生産性フレームワーク
 
 ### 組織行動・人材開発
 
@@ -62,3 +70,4 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [野中郁次郎](entities/nonaka-ikujiro.md) — 組織的知識創造理論の提唱者。SECIモデル、『知識創造企業』『ワイズカンパニー』
 - [37signals](entities/37signals.md) — 人事マネージャー向けプレイブックの発行元
 - [ピーター・ドラッカー](entities/peter-drucker.md) — 「マネジメントを発明した男」。知識労働者・MBO・エグゼクティブの条件等を提唱
+- [Backstage](entities/backstage.md) — Spotify発のOSS社内開発者ポータル（IDP）フレームワーク

@@ -30,3 +30,4 @@ updated: 2026-07-03
 
 - [チームトポロジー](team-topologies.md)
 - [DORAメトリクス（Four Keys）](dora-metrics.md)
+- [Platform Engineering](platform-engineering.md) — 認知負荷対策としてのthinnest viable platform / golden pathも、コンウェイの法則の系譜にある組織設計の実践
