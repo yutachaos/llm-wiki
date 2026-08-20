@@ -43,3 +43,5 @@ updated: 2026-07-03
 
 - [コンウェイの法則](conways-law.md)
 - [DORAメトリクス（Four Keys）](dora-metrics.md)
+- [Platform Engineering](platform-engineering.md) — プラットフォームチームという設計概念を、IDP・golden path・開発者ポータルという実践レベルまで具体化した規律
+- [Backstage](../entities/backstage.md) — 開発者ポータルの代表的な実装例
