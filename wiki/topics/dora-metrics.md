@@ -37,5 +37,6 @@ updated: 2026-07-03
 
 - [スクラム](scrum.md)
 - [コンウェイの法則](conways-law.md)
+- [体系的イノベーションの7つの機会](sources-of-innovation.md)
 - [Platform Engineering](platform-engineering.md) — DORAの調査はplatform engineering・IDP採用の効果測定にも使われる
 - [SPACE framework と DX Core 4](space-dx-core4-metrics.md) — DORAをデリバリー指標として内包し、開発者体験まで広げた統合フレームワーク

@@ -65,3 +65,5 @@ updated: 2026-08-16
 - [マネージャープレイブック: 採用とオンボーディング](manager-playbook-hiring-onboarding.md)
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
+- [目標による管理（MBO）](management-by-objectives.md)
+- [知識労働者](knowledge-worker.md)

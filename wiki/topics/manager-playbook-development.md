@@ -71,3 +71,4 @@ updated: 2026-08-16
 - [マネージャープレイブック: 採用とオンボーディング](manager-playbook-hiring-onboarding.md)
 - [マネージャープレイブック: パフォーマンス管理](manager-playbook-performance.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
+- [エグゼクティブの条件](effective-executive.md)

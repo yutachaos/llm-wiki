@@ -42,6 +42,15 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [心理的安全性](topics/psychological-safety.md) — 対人リスクを取っても罰されないという共有された信念。エドモンドソン
 - [成人発達理論](topics/adult-development-theory.md) — キーガンの発達段階（環境順応型・自己主導型・自己変容型）と変革への免疫
 
+### 経営学（ピーター・ドラッカー）
+
+- [知識労働者](topics/knowledge-worker.md) — 生産手段を自らの頭脳に持つ労働者。セルフマネジメントの必要性の起点
+- [目標による管理（MBO）](topics/management-by-objectives.md) — 命令と統制でなく、目標と自己統制による管理
+- [エグゼクティブの条件](topics/effective-executive.md) — 成果を上げる能力は才能でなく習慣。5つの実践
+- [自己探求（Managing Oneself）](topics/managing-oneself.md) — 自分の強み・働き方を知るフィードバック分析
+- [連邦分権制（Federal Decentralization）](topics/federal-decentralization.md) — GM研究に基づく自律的事業単位への権限委譲モデル
+- [体系的イノベーションの7つの機会](topics/sources-of-innovation.md) — イノベーションは体系的に観測できる7つの機会から生まれる
+
 ### マネジメント実務（37signals Manager Playbook）
 
 - [マネージャープレイブック: 基礎と権限の境界](topics/manager-playbook-foundations.md) — マネージャーの卓越性基準、給与・PTO・苦情対応で People Ops にエスカレートすべき境界線
@@ -60,4 +69,5 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [Andrej Karpathy](entities/andrej-karpathy.md) — AI 研究者。LLM Wiki パターンの提唱者
 - [野中郁次郎](entities/nonaka-ikujiro.md) — 組織的知識創造理論の提唱者。SECIモデル、『知識創造企業』『ワイズカンパニー』
 - [37signals](entities/37signals.md) — 人事マネージャー向けプレイブックの発行元
+- [ピーター・ドラッカー](entities/peter-drucker.md) — 「マネジメントを発明した男」。知識労働者・MBO・エグゼクティブの条件等を提唱
 - [Backstage](entities/backstage.md) — Spotify発のOSS社内開発者ポータル（IDP）フレームワーク

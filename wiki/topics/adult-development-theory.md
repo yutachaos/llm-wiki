@@ -39,3 +39,4 @@ updated: 2026-07-03
 
 - [心理的安全性](psychological-safety.md)
 - [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md)
+- [自己探求（Managing Oneself）](managing-oneself.md)

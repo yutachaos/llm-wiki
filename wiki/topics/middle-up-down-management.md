@@ -30,3 +30,4 @@ updated: 2026-07-03
 
 - [SECIモデル](seci-model.md)
 - [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md)
+- [連邦分権制（Federal Decentralization）](federal-decentralization.md)
