@@ -46,6 +46,7 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 
 - [知識労働者](topics/knowledge-worker.md) — 生産手段を自らの頭脳に持つ労働者。セルフマネジメントの必要性の起点
 - [目標による管理（MBO）](topics/management-by-objectives.md) — 命令と統制でなく、目標と自己統制による管理
+- [OKR（Objectives and Key Results）](topics/okr.md) — アンディ・グローブがMBOを土台に開発、ジョン・ドーアがGoogleに伝えたコミット/アスピレーション目標のフレームワーク
 - [エグゼクティブの条件](topics/effective-executive.md) — 成果を上げる能力は才能でなく習慣。5つの実践
 - [自己探求（Managing Oneself）](topics/managing-oneself.md) — 自分の強み・働き方を知るフィードバック分析
 - [連邦分権制（Federal Decentralization）](topics/federal-decentralization.md) — GM研究に基づく自律的事業単位への権限委譲モデル
