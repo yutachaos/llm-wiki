@@ -66,4 +66,5 @@ updated: 2026-08-16
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
 - [目標による管理（MBO）](management-by-objectives.md)
+- [OKR（Objectives and Key Results）](okr.md)
 - [知識労働者](knowledge-worker.md)

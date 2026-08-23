@@ -24,9 +24,11 @@ Management by Objectives and Self-Control（目標と自己統制による管理
 
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)の[パフォーマンス管理](manager-playbook-performance.md)におけるゴール設定（達成可能なゴール2つ以上＋ストレッチゴール1〜2つを本人が設定）は、MBOの「本人参加による目標設定」を直接引き継いだ形
 - MBOは1960〜70年代に米企業（HP、Xerox、GEなど）に急速に広がり、フォーチュン500企業の主要な業績評価モデルになった一方、後年「自己統制」の思想が失われ、単なる数値ノルマ管理に矮小化されやすいという批判もある。目標の「数」ではなく「誰が設定し、誰が統制するか」がドラッカーの主眼だった点に注意
+- インテルのアンディ・グローブは1970年代にMBOを土台に[OKR](okr.md)を開発し、本人参加による目標設定という核心を引き継ぎつつ、測定可能なKey Resultsの紐づけと短サイクル運用を明確化した
 
 ## 関連
 
 - [知識労働者](knowledge-worker.md)
 - [エグゼクティブの条件](effective-executive.md)
 - [マネージャープレイブック: パフォーマンス管理](manager-playbook-performance.md)
+- [OKR（Objectives and Key Results）](okr.md)
