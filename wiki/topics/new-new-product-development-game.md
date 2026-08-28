@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # The New New Product Development Game
 
-- 提唱者: 竹内弘高・[野中郁次郎](../entities/nonaka-ikujiro.md)
+- 提唱者: [竹内弘高](../entities/takeuchi-hirotaka.md)・[野中郁次郎](../entities/nonaka-ikujiro.md)
 - 分野: 製品開発・組織論
 - 出典: Harvard Business Review (1986)
 

@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # SECIモデル
 
-- 提唱者: [野中郁次郎](../entities/nonaka-ikujiro.md)・竹内弘高
+- 提唱者: [野中郁次郎](../entities/nonaka-ikujiro.md)・[竹内弘高](../entities/takeuchi-hirotaka.md)
 - 分野: 知識経営（ナレッジマネジメント）
 - 出典: 『知識創造企業』(The Knowledge-Creating Company, 1995)
 
@@ -37,3 +37,6 @@ updated: 2026-07-03
 - [暗黙知と形式知](tacit-explicit-knowledge.md)
 - [場（Ba）](ba.md)
 - [ミドル・アップダウン・マネジメント](middle-up-down-management.md)
+- [The New New Product Development Game](new-new-product-development-game.md)
+- [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md)
+- [学習する組織とダブルループ学習](learning-organization.md) — 同時代の隣接理論。表出化とメンタルモデルの言語化は同じ操作を指す

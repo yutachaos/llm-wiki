@@ -43,6 +43,7 @@ updated: 2026-07-03
 
 - [コンウェイの法則](conways-law.md)
 - [DORAメトリクス（Four Keys）](dora-metrics.md)
-- [連邦分権制（Federal Decentralization）](federal-decentralization.md)
 - [Platform Engineering](platform-engineering.md) — プラットフォームチームという設計概念を、IDP・golden path・開発者ポータルという実践レベルまで具体化した規律
 - [Backstage](../entities/backstage.md) — 開発者ポータルの代表的な実装例
+- [SRE（SLO・エラーバジェット）](sre-slo-error-budget.md) — X-as-a-Service の提供側が持つべき信頼性の契約
+- [連邦分権制（Federal Decentralization）](federal-decentralization.md)

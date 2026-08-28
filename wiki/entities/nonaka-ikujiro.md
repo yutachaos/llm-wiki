@@ -16,12 +16,20 @@ updated: 2026-07-03
 - [ミドル・アップダウン・マネジメント](../topics/middle-up-down-management.md)
 - [ワイズカンパニーと実践知（フロネシス）](../topics/wise-company-phronesis.md)
 
+## 共同研究者
+
+- [竹内弘高](takeuchi-hirotaka.md) — 1986年の HBR 論文・『知識創造企業』・『ワイズカンパニー』の共著者
+
 ## 主要著書
 
 - 『失敗の本質——日本軍の組織論的研究』(1984, 共著)
 - 『知識創造企業』(The Knowledge-Creating Company, 1995, 竹内弘高と共著)
 - 『ワイズカンパニー』(The Wise Company, 2019, 竹内弘高と共著)
 - "The New New Product Development Game" (HBR, 1986, 竹内弘高と共著) — スクラムの語源になった論文 → [The New New Product Development Game](../topics/new-new-product-development-game.md)
+
+## 関連理論
+
+- [学習する組織とダブルループ学習](../topics/learning-organization.md) — 同時代の組織学習理論。知識の「創造」に対し学習を阻む構造に焦点がある
 
 ## メモ
 

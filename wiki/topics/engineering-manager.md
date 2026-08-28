@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # エンジニアリングマネージャー
 
-- 提唱者: カミール・フルニエ（体系化）
+- 提唱者: [カミール・フルニエ](../entities/camille-fournier.md)（体系化）
 - 分野: エンジニアリングマネジメント・キャリア開発
 - 出典: Fournier "The Manager's Path" (2017)
 
@@ -36,3 +36,6 @@ updated: 2026-07-03
 - [心理的安全性](psychological-safety.md)
 - [成人発達理論](adult-development-theory.md)
 - [ミドル・アップダウン・マネジメント](middle-up-down-management.md)
+- [High Output Management](high-output-management.md) — レバレッジとタスク習熟度による委譲の判断基準
+- [動機づけ理論](motivation-theory.md)
+- [マネージャープレイブック: チーム育成](manager-playbook-development.md) — 1on1・コーチング・昇進判断の実務例

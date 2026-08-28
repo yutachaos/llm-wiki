@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # DORAメトリクス（Four Keys）
 
-- 提唱者: ニコール・フォースグレン、ジェズ・ハンブル、ジーン・キム
+- 提唱者: [ニコール・フォースグレン](../entities/nicole-forsgren.md)、ジェズ・ハンブル、ジーン・キム
 - 分野: ソフトウェアデリバリー・組織パフォーマンス
 - 出典: 『LeanとDevOpsの科学』(Accelerate, 2018)、DORA State of DevOps Report
 
@@ -24,7 +24,7 @@ updated: 2026-07-03
 | サービス復元時間 (MTTR) | 障害からの復旧時間（安定性） |
 
 - ハイパフォーマーは4指標すべてで優れる。速度を上げると安定性も上がる（バッチが小さくなるため）
-- 指標を改善する能力（ケイパビリティ）も特定されている: 継続的デリバリー、疎結合アーキテクチャ、Westrum の創造的組織文化、学習文化など
+- 指標を改善する能力（ケイパビリティ）も特定されている: 継続的デリバリー、疎結合アーキテクチャ、[Westrum の創造的組織文化](westrum-organizational-culture.md)、学習文化など
 - 指標は目標でなく健康診断。目標化すると Goodhart の法則で歪む（デプロイ頻度のために空デプロイ等）
 
 ## マネジメントへの適用
@@ -37,6 +37,11 @@ updated: 2026-07-03
 
 - [スクラム](scrum.md)
 - [コンウェイの法則](conways-law.md)
+- [チームトポロジー](team-topologies.md)
+- [Westrum の組織文化類型](westrum-organizational-culture.md) — 4指標を改善するケイパビリティとして挙げられる「創造的文化」の出典
+- [OKR（Objectives and Key Results）](okr.md) — 健康診断指標を目標化したときの歪みについて
+- [ニコール・フォースグレン](../entities/nicole-forsgren.md)
+- [SRE（SLO・エラーバジェット）](sre-slo-error-budget.md) — 変更障害率・復元時間と関心が重なる信頼性側の規律
 - [体系的イノベーションの7つの機会](sources-of-innovation.md)
 - [Platform Engineering](platform-engineering.md) — DORAの調査はplatform engineering・IDP採用の効果測定にも使われる
 - [SPACE framework と DX Core 4](space-dx-core4-metrics.md) — DORAをデリバリー指標として内包し、開発者体験まで広げた統合フレームワーク

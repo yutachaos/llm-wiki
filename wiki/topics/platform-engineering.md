@@ -19,11 +19,11 @@ updated: 2026-08-20
 
 Internal Developer Platform（IDP）の設計・構築・運用を通じて、開発者がインフラを自前で組み立てずにセルフサービスでビルド・デプロイ・運用できるようにする規律。CNCF（TAG App Delivery）の定義では「プラットフォームの利用者のニーズに応じて定義・提供される、統合されたケイパビリティの集合」。DORA は「ソシオテクニカルな規律」と呼び、チーム間相互作用と自動化・セルフサービス・再現性という技術的な仕事の交差点に位置づける。
 
+クラウドネイティブ化・Kubernetes・マイクロサービス化が進んだことで、DevOps の「you build it, you run it」が実質的に全プロダクトチームをインフラチーム化させ、認知負荷がボトルネックになった反動として生まれた。
+
 ## 矛盾
 
 - platformengineering.com の記事は「a platform is an integrated product that abstracts away the underlying complexity of the technology stack」を CNCF Platforms Working Group の "canonical formulation" として引用しているが、CNCF Platforms White Paper の実際の定義文は "an integrated **collection of capabilities** defined and presented according to the needs of the platform's users" であり、引用が不正確（「複雑さの抽象化」ではなく「ケイパビリティの集合」が原文の骨子）。本ページの定義は CNCF White Paper 側の原文に基づく
-
-クラウドネイティブ化・Kubernetes・マイクロサービス化が進んだことで、DevOps の「you build it, you run it」が実質的に全プロダクトチームをインフラチーム化させ、認知負荷がボトルネックになった反動として生まれた。
 
 ## 主要概念
 
@@ -88,3 +88,6 @@ ThoughtWorksは「platform engineering product teams」（明確な顧客とプ�
 - [SPACE framework と DX Core 4](space-dx-core4-metrics.md)
 - [コンウェイの法則](conways-law.md)
 - [Backstage](../entities/backstage.md)
+- [CNCF（Cloud Native Computing Foundation）](../entities/cncf.md)
+- [カミール・フルニエ](../entities/camille-fournier.md) — "Platform Engineering: A Guide for Technical, Product, and People Leaders" (2024) の共著者
+- [SRE（SLO・エラーバジェット）](sre-slo-error-budget.md) — platform engineering が前提に置く「信頼性の規律」の中身

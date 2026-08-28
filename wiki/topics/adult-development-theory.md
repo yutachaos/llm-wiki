@@ -39,4 +39,7 @@ updated: 2026-07-03
 
 - [心理的安全性](psychological-safety.md)
 - [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md)
+- [学習する組織とダブルループ学習](learning-organization.md) — 前提を客体化する操作はダブルループ学習と重なる
+- [動機づけ理論](motivation-theory.md)
+- [エンジニアリングマネージャー](engineering-manager.md) — 委譲の粒度を発達段階に合わせる
 - [自己探求（Managing Oneself）](managing-oneself.md)

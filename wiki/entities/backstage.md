@@ -18,3 +18,5 @@ Spotifyが開発しCNCFに寄贈したOSSの社内開発者ポータル（IDP）
 
 - [Backstage導入ガイド](../sources/backstage-adoption-guide.md)
 - [Platform Engineering](../topics/platform-engineering.md)
+- [チームトポロジー](../topics/team-topologies.md)
+- [CNCF（Cloud Native Computing Foundation）](cncf.md)

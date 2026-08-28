@@ -71,4 +71,8 @@ updated: 2026-08-16
 - [マネージャープレイブック: 採用とオンボーディング](manager-playbook-hiring-onboarding.md)
 - [マネージャープレイブック: パフォーマンス管理](manager-playbook-performance.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
+- [High Output Management](high-output-management.md) — 1on1 とタスク習熟度に応じた委譲の理論側
+- [動機づけ理論](motivation-theory.md) — 認識（recognition）が動機づけ要因に当たる理由
+- [エンジニアリングマネージャー](engineering-manager.md)
+- [エンジニアリングキャリアラダー（デュアルラダー）](engineering-career-ladder.md)
 - [エグゼクティブの条件](effective-executive.md)
