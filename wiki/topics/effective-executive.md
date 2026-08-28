@@ -32,4 +32,5 @@ updated: 2026-08-20
 
 - [知識労働者](knowledge-worker.md)
 - [目標による管理（MBO）](management-by-objectives.md)
+- [自己探求（Managing Oneself）](managing-oneself.md) — 組織の成果（本書）に対し、個人のキャリア側の実践
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)

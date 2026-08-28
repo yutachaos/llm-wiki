@@ -34,5 +34,8 @@ updated: 2026-08-20
 
 - [目標による管理（MBO）](management-by-objectives.md)
 - [エグゼクティブの条件](effective-executive.md)
+- [自己探求（Managing Oneself）](managing-oneself.md) — 知識労働者が「自分のCEO」としてキャリアを経営する方法論
+- [連邦分権制（Federal Decentralization）](federal-decentralization.md)
+- [体系的イノベーションの7つの機会](sources-of-innovation.md)
 - [暗黙知と形式知](tacit-explicit-knowledge.md)
 - [マネージャープレイブック: 基礎と権限の境界](manager-playbook-foundations.md)
