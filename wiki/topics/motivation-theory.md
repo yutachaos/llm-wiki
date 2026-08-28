@@ -48,7 +48,7 @@ updated: 2026-08-20
 
 ## 関連
 
-- [OKR と目標管理（MBO）](okr.md)
+- [OKR（Objectives and Key Results）](okr.md)
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [マネージャープレイブック: パフォーマンス管理](manager-playbook-performance.md)
 - [High Output Management](high-output-management.md)

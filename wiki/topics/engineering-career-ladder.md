@@ -32,3 +32,4 @@ updated: 2026-07-03
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [スタッフエンジニア](staff-engineer.md)
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md) — 昇進判断の実務ルール
+- [自己探求（Managing Oneself）](managing-oneself.md)

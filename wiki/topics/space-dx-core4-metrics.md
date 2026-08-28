@@ -53,4 +53,4 @@ DORA・SPACE・DevExを統合した単一フレームワーク。4次元:
 - [DORAメトリクス（Four Keys）](dora-metrics.md)
 - [Platform Engineering](platform-engineering.md)
 - [ニコール・フォースグレン](../entities/nicole-forsgren.md) — DORA・SPACE 双方の共著者
-- [OKR と目標管理（MBO）](okr.md) — 健康診断指標を目標に転用したときの歪みについて
+- [OKR（Objectives and Key Results）](okr.md) — 健康診断指標を目標に転用したときの歪みについて

@@ -35,7 +35,7 @@ updated: 2026-08-20
 ## 関連
 
 - [アンディ・グローブ](../entities/andy-grove.md)
-- [OKR と目標管理（MBO）](okr.md)
+- [OKR（Objectives and Key Results）](okr.md)
 - [動機づけ理論](motivation-theory.md) — 自律性を奪う細かい介入がなぜ効率的に意欲を壊すか
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)

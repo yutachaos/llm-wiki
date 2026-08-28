@@ -11,7 +11,7 @@ updated: 2026-08-20
 ## 理論
 
 - [High Output Management](../topics/high-output-management.md) — マネージャーのアウトプットの定義、レバレッジ、タスク習熟度に応じた委譲
-- [OKR と目標管理（MBO）](../topics/okr.md) — Intel での iMBO が原型
+- [OKR（Objectives and Key Results）](../topics/okr.md) — Intel での iMBO が原型
 
 ## 主要著書
 
