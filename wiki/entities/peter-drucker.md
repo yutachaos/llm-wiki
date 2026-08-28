@@ -28,6 +28,10 @@ Peter Ferdinand Drucker（1909–2005）。オーストリア・ウィーン生�
 - 『ポスト資本主義社会』(Post-Capitalist Society, 1993)
 - "Managing Oneself" (Harvard Business Review, 1999) — [自己探求](../topics/managing-oneself.md)
 
+## 影響
+
+- [OKR（Objectives and Key Results）](../topics/okr.md) — アンディ・グローブが MBO を土台に開発した実行志向の発展形
+
 ## メモ
 
 - [野中郁次郎](nonaka-ikujiro.md)・竹内弘高は『知識創造企業』で、ドラッカーの「知識労働者」概念を出発点として引き継ぎつつ、西洋経営学（ドラッカーを含む）は形式知（説明可能な情報）に偏重しており暗黙知の役割を過小評価していると批判した → [暗黙知と形式知](../topics/tacit-explicit-knowledge.md)

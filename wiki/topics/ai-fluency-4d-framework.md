@@ -11,7 +11,7 @@ updated: 2026-08-28
 - 提唱: Anthropic（Claude Academy「AI Fluency: Framework & Foundations」コース）
 - 出典: [Claude Academy — AI Fluency](../sources/claude-academy-ai-fluency.md)
 
-AI と「効果的・効率的・倫理的・安全」に協働するための能力体系。プロンプトの書き方という技術論ではなく、**任せ方・伝え方・評価・責任**の4能力として AI 活用を構造化する。
+AI と「効果的・効率的・倫理的・安全」に協働するための能力体系。プロンプトの書き方という技術論を超えて、**任せ方・伝え方・評価・責任**の4能力として AI 活用を構造化する。
 
 ## AI との3つの関わり方
 
