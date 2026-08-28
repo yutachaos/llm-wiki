@@ -40,3 +40,4 @@ updated: 2026-08-20
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)
 - [ミドル・アップダウン・マネジメント](middle-up-down-management.md)
+- [AI Fluency（4Dフレームワーク）](ai-fluency-4d-framework.md) — 委譲・タスク習熟度・モニタリングの枠組みを AI 協働に適用した同型の構造
