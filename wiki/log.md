@@ -31,3 +31,4 @@
 
 ## 2026-08-28
 - merge: main（ピーター・ドラッカー群・OKR）を ingest/platform-engineering に取り込み、コンフリクトを解消。topics/okr.md は両ブランチで別々に作成されていたため1ページに統合（main 版の構造・出典を基に、CFR・報酬との分離・KPIとの違い・Goodhart の法則の論点を追記）。index.md は OKR を「経営学（ピーター・ドラッカー）」節に一本化し、「マネジメント実務」節の重複エントリを削除
+- ingest: https://academy.claude.com/ja （Claude Academy、AI Fluency: Framework & Foundations コース）を取り込み。サイトが SPA のため sitemap.xml でページ構成を取得し、コース・主要レッスンページ（4Dフレームワーク・Delegation・Description・プロンプティング技法・Discernment・Diligence・Description-Discernmentループ・AI Fluencyの必要性・生成AI基礎・能力と限界）を個別抽出して sources/claude-academy-ai-fluency.md に保存（動画本体の内容は含まれない）。wiki/sources/claude-academy-ai-fluency.md（要約）、wiki/topics/ai-fluency-4d-framework.md を新規作成（AI協働の方法論という主題が既存ページに収まらないため新規）。high-output-management.md（委譲・タスク習熟度との同型性）、llm-wiki-pattern.md（ドメイン知識がDiscernmentを高める）と双方向リンクを追加。矛盾なし。index 更新

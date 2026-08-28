@@ -12,12 +12,14 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [ThoughtWorks Technology Radar — Platform Teams関連ブリップ](sources/thoughtworks-radar-platform-teams.md) — platform team推奨（Adopt）と失敗パターン批判（Hold）の両論
 - [Backstage導入ガイド（Earthly）](sources/backstage-adoption-guide.md) — 20以上の組織の知見に基づくBackstage導入コスト・失敗パターン
 - [SPACE framework と DX Core 4](sources/dx-core-4-space-framework.md) — 開発者生産性測定フレームワークの変遷
+- [Claude Academy — AI Fluency](sources/claude-academy-ai-fluency.md) — Anthropic の学習プラットフォーム。AI 協働の方法論「4Dフレームワーク」の一次ソース
 
 ## Topics
 
 ### LLM・ナレッジベース
 
 - [LLM Wiki パターン](topics/llm-wiki-pattern.md) — LLM が wiki を構築・保守する知識管理パターン。3層構造と Ingest / Query / Lint の3操作
+- [AI Fluency（4Dフレームワーク）](topics/ai-fluency-4d-framework.md) — Delegation / Description / Discernment / Diligence の4能力で AI 協働を構造化する Anthropic の方法論
 ### 知識経営（野中郁次郎）
 
 - [SECIモデル](topics/seci-model.md) — 暗黙知と形式知の相互変換（共同化・表出化・連結化・内面化）による組織的知識創造のモデル
