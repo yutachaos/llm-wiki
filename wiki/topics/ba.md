@@ -38,3 +38,5 @@ updated: 2026-07-03
 - [SECIモデル](seci-model.md)
 - [暗黙知と形式知](tacit-explicit-knowledge.md)
 - [心理的安全性](psychological-safety.md)
+- [スクラム](scrum.md) — レトロスペクティブを対話場として設計する
+- [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md) — 場の創出はワイズリーダーの能力のひとつ

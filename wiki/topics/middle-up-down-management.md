@@ -30,3 +30,7 @@ updated: 2026-07-03
 
 - [SECIモデル](seci-model.md)
 - [ワイズカンパニーと実践知（フロネシス）](wise-company-phronesis.md)
+- [The New New Product Development Game](new-new-product-development-game.md)
+- [エンジニアリングマネージャー](engineering-manager.md)
+- [スタッフエンジニア](staff-engineer.md)
+- [High Output Management](high-output-management.md) — 結節点としてのミドルの仕事をレバレッジの観点から見た枠組み

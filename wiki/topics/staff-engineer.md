@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # スタッフエンジニア
 
-- 提唱者: ウィル・ラーソン（体系化）、タナヤ・レイリー
+- 提唱者: [ウィル・ラーソン](../entities/will-larson.md)（体系化）、タナヤ・レイリー
 - 分野: キャリア開発・テクニカルリーダーシップ
 - 出典: Larson "Staff Engineer: Leadership beyond the management track" (2021)、Reilly "The Staff Engineer's Path" (2022)
 

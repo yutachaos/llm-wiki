@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # エンジニアリングキャリアラダー（デュアルラダー）
 
-- 提唱者: 業界慣行（体系化: カミール・フルニエ、ウィル・ラーソン等）
+- 提唱者: 業界慣行（体系化: [カミール・フルニエ](../entities/camille-fournier.md)、[ウィル・ラーソン](../entities/will-larson.md)等）
 - 分野: キャリア開発・組織設計
 - 出典: Fournier "The Manager's Path" (2017)、Larson "Staff Engineer" (2021)、各社公開ラダー（Dropbox Career Framework 等）
 
@@ -31,3 +31,4 @@ updated: 2026-07-03
 
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [スタッフエンジニア](staff-engineer.md)
+- [マネージャープレイブック: チーム育成](manager-playbook-development.md) — 昇進判断の実務ルール

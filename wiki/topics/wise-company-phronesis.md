@@ -6,7 +6,7 @@ updated: 2026-07-03
 
 # ワイズカンパニーと実践知（フロネシス）
 
-- 提唱者: [野中郁次郎](../entities/nonaka-ikujiro.md)・竹内弘高
+- 提唱者: [野中郁次郎](../entities/nonaka-ikujiro.md)・[竹内弘高](../entities/takeuchi-hirotaka.md)
 - 分野: 知識経営・リーダーシップ論
 - 出典: 『ワイズカンパニー』(The Wise Company, 2019)
 

@@ -12,13 +12,11 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [ThoughtWorks Technology Radar — Platform Teams関連ブリップ](sources/thoughtworks-radar-platform-teams.md) — platform team推奨（Adopt）と失敗パターン批判（Hold）の両論
 - [Backstage導入ガイド（Earthly）](sources/backstage-adoption-guide.md) — 20以上の組織の知見に基づくBackstage導入コスト・失敗パターン
 - [SPACE framework と DX Core 4](sources/dx-core-4-space-framework.md) — 開発者生産性測定フレームワークの変遷
-
 ## Topics
 
 ### LLM・ナレッジベース
 
 - [LLM Wiki パターン](topics/llm-wiki-pattern.md) — LLM が wiki を構築・保守する知識管理パターン。3層構造と Ingest / Query / Lint の3操作
-
 ### 知識経営（野中郁次郎）
 
 - [SECIモデル](topics/seci-model.md) — 暗黙知と形式知の相互変換（共同化・表出化・連結化・内面化）による組織的知識創造のモデル
@@ -26,6 +24,7 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [場（Ba）](topics/ba.md) — 知識が創造・共有される共有文脈。SECI の4モードに対応する4つの場
 - [ミドル・アップダウン・マネジメント](topics/middle-up-down-management.md) — ミドルマネージャーを知識創造の結節点に置く組織モデル
 - [ワイズカンパニーと実践知（フロネシス）](topics/wise-company-phronesis.md) — 知識から知恵へ。ワイズリーダーの6つの能力
+- [学習する組織とダブルループ学習](topics/learning-organization.md) — センゲの5つのディシプリンとアージリスの防衛的思考。組織学習を阻む構造
 
 ### スクラム・ソフトウェア開発
 
@@ -36,14 +35,19 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [チームトポロジー](topics/team-topologies.md) — 認知負荷を制約とした4つのチームタイプと3つのインタラクションモード
 - [Platform Engineering](topics/platform-engineering.md) — IDP・golden pathsによる開発者セルフサービス化とAIとの融合
 - [SPACE framework と DX Core 4](topics/space-dx-core4-metrics.md) — DORAを超えて開発者体験まで測る生産性フレームワーク
+- [SRE（SLO・エラーバジェット）](topics/sre-slo-error-budget.md) — 信頼性を数値目標と残余予算として扱う運用の規律
 
 ### 組織行動・人材開発
 
 - [心理的安全性](topics/psychological-safety.md) — 対人リスクを取っても罰されないという共有された信念。エドモンドソン
 - [成人発達理論](topics/adult-development-theory.md) — キーガンの発達段階（環境順応型・自己主導型・自己変容型）と変革への免疫
+- [Westrum の組織文化類型](topics/westrum-organizational-culture.md) — 病的・官僚的・創造的。情報の流れ方で組織文化を測る
+- [動機づけ理論](topics/motivation-theory.md) — 二要因理論・自己決定理論。不満の解消と動機づけは別の軸
 
-### マネジメント実務（37signals Manager Playbook）
+### マネジメント実務
 
+- [OKR と目標管理（MBO）](topics/okr.md) — MBO から OKR への系譜。Objective と Key Results の分離、報酬との切り離し
+- [High Output Management](topics/high-output-management.md) — グローブのレバレッジとタスク習熟度。マネージャーのアウトプットの定義
 - [マネージャープレイブック: 基礎と権限の境界](topics/manager-playbook-foundations.md) — マネージャーの卓越性基準、給与・PTO・苦情対応で People Ops にエスカレートすべき境界線
 - [マネージャープレイブック: 採用とオンボーディング](topics/manager-playbook-hiring-onboarding.md) — People Ops と採用マネージャーの役割分担、採用プロセス全10ステップと新入社員立ち上げ
 - [マネージャープレイブック: パフォーマンス管理](topics/manager-playbook-performance.md) — SECフレームワーク、レビュー、建設的フィードバック、低パフォーマンス対応と解雇、困難な会話
@@ -61,3 +65,9 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [野中郁次郎](entities/nonaka-ikujiro.md) — 組織的知識創造理論の提唱者。SECIモデル、『知識創造企業』『ワイズカンパニー』
 - [37signals](entities/37signals.md) — 人事マネージャー向けプレイブックの発行元
 - [Backstage](entities/backstage.md) — Spotify発のOSS社内開発者ポータル（IDP）フレームワーク
+- [竹内弘高](entities/takeuchi-hirotaka.md) — 野中との共同研究者。1986年 HBR 論文・『知識創造企業』・『ワイズカンパニー』の共著者
+- [アンディ・グローブ](entities/andy-grove.md) — Intel 元CEO。High Output Management の著者、OKR の原型を作った人物
+- [ニコール・フォースグレン](entities/nicole-forsgren.md) — DORA 共同創業者。Accelerate・SPACE の共著者
+- [カミール・フルニエ](entities/camille-fournier.md) — The Manager's Path 著者。マネジメントトラックの段階を体系化
+- [ウィル・ラーソン](entities/will-larson.md) — Staff Engineer 著者。IC トラックの Staff+ ロールを体系化
+- [CNCF（Cloud Native Computing Foundation）](entities/cncf.md) — クラウドネイティブのベンダー中立団体。Platforms White Paper の発行元

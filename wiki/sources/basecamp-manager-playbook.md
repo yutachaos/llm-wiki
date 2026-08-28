@@ -8,7 +8,7 @@ updated: 2026-08-16
 
 # 37signals Manager Playbook
 
-[37signals](../entities/37signals.md) が公開する、人事マネージャー向けの実践プレイブック。全16章、4セクション（Foundations / Growing Your Team / Performance Management / Developing Your Team）で構成される。出典: [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)。
+[37signals](../entities/37signals.md) が公開する、人事マネージャー向けの実践プレイブック。全16章、4セクション（Foundations / Growing Your Team / Performance Management / Developing Your Team）で構成される。出典: [37signals Manager Playbook](../../sources/basecamp-manager-playbook.md)。
 
 ## 要点
 

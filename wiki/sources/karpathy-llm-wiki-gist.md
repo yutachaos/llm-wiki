@@ -8,6 +8,8 @@ updated: 2026-07-02
 
 # LLM Wiki (karpathy gist)
 
+- 出典: [karpathy の gist](../../sources/karpathy-llm-wiki-gist.md)
+
 [Andrej Karpathy](../entities/andrej-karpathy.md) による gist。LLM を使った個人ナレッジベース構築パターン「[LLM Wiki パターン](../topics/llm-wiki-pattern.md)」を提唱する文書。本リポジトリの設計の原典。
 
 ## 要点
