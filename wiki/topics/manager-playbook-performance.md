@@ -65,5 +65,7 @@ updated: 2026-08-16
 - [マネージャープレイブック: 採用とオンボーディング](manager-playbook-hiring-onboarding.md)
 - [マネージャープレイブック: チーム育成](manager-playbook-development.md)
 - [37signals Manager Playbook](../sources/basecamp-manager-playbook.md)
-- [OKR と目標管理（MBO）](okr.md) — 目標設定と評価を分離する論点
+- [目標による管理（MBO）](management-by-objectives.md)
+- [OKR（Objectives and Key Results）](okr.md) — 目標設定と評価を分離する論点
+- [知識労働者](knowledge-worker.md)
 - [動機づけ理論](motivation-theory.md)

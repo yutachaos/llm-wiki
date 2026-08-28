@@ -39,8 +39,9 @@ updated: 2026-07-03
 - [コンウェイの法則](conways-law.md)
 - [チームトポロジー](team-topologies.md)
 - [Westrum の組織文化類型](westrum-organizational-culture.md) — 4指標を改善するケイパビリティとして挙げられる「創造的文化」の出典
-- [OKR と目標管理（MBO）](okr.md) — 健康診断指標を目標化したときの歪みについて
+- [OKR（Objectives and Key Results）](okr.md) — 健康診断指標を目標化したときの歪みについて
 - [ニコール・フォースグレン](../entities/nicole-forsgren.md)
 - [SRE（SLO・エラーバジェット）](sre-slo-error-budget.md) — 変更障害率・復元時間と関心が重なる信頼性側の規律
+- [体系的イノベーションの7つの機会](sources-of-innovation.md)
 - [Platform Engineering](platform-engineering.md) — DORAの調査はplatform engineering・IDP採用の効果測定にも使われる
 - [SPACE framework と DX Core 4](space-dx-core4-metrics.md) — DORAをデリバリー指標として内包し、開発者体験まで広げた統合フレームワーク

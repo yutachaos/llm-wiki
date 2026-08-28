@@ -12,6 +12,7 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [ThoughtWorks Technology Radar — Platform Teams関連ブリップ](sources/thoughtworks-radar-platform-teams.md) — platform team推奨（Adopt）と失敗パターン批判（Hold）の両論
 - [Backstage導入ガイド（Earthly）](sources/backstage-adoption-guide.md) — 20以上の組織の知見に基づくBackstage導入コスト・失敗パターン
 - [SPACE framework と DX Core 4](sources/dx-core-4-space-framework.md) — 開発者生産性測定フレームワークの変遷
+
 ## Topics
 
 ### LLM・ナレッジベース
@@ -44,9 +45,18 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [Westrum の組織文化類型](topics/westrum-organizational-culture.md) — 病的・官僚的・創造的。情報の流れ方で組織文化を測る
 - [動機づけ理論](topics/motivation-theory.md) — 二要因理論・自己決定理論。不満の解消と動機づけは別の軸
 
+### 経営学（ピーター・ドラッカー）
+
+- [知識労働者](topics/knowledge-worker.md) — 生産手段を自らの頭脳に持つ労働者。セルフマネジメントの必要性の起点
+- [目標による管理（MBO）](topics/management-by-objectives.md) — 命令と統制でなく、目標と自己統制による管理
+- [OKR（Objectives and Key Results）](topics/okr.md) — アンディ・グローブがMBOを土台に開発、ジョン・ドーアがGoogleに伝えたコミット/アスピレーション目標のフレームワーク
+- [エグゼクティブの条件](topics/effective-executive.md) — 成果を上げる能力は才能でなく習慣。5つの実践
+- [自己探求（Managing Oneself）](topics/managing-oneself.md) — 自分の強み・働き方を知るフィードバック分析
+- [連邦分権制（Federal Decentralization）](topics/federal-decentralization.md) — GM研究に基づく自律的事業単位への権限委譲モデル
+- [体系的イノベーションの7つの機会](topics/sources-of-innovation.md) — イノベーションは体系的に観測できる7つの機会から生まれる
+
 ### マネジメント実務
 
-- [OKR と目標管理（MBO）](topics/okr.md) — MBO から OKR への系譜。Objective と Key Results の分離、報酬との切り離し
 - [High Output Management](topics/high-output-management.md) — グローブのレバレッジとタスク習熟度。マネージャーのアウトプットの定義
 - [マネージャープレイブック: 基礎と権限の境界](topics/manager-playbook-foundations.md) — マネージャーの卓越性基準、給与・PTO・苦情対応で People Ops にエスカレートすべき境界線
 - [マネージャープレイブック: 採用とオンボーディング](topics/manager-playbook-hiring-onboarding.md) — People Ops と採用マネージャーの役割分担、採用プロセス全10ステップと新入社員立ち上げ
@@ -64,6 +74,7 @@ wiki 全ページのカタログ。各ページは「リンク — 一行要約�
 - [Andrej Karpathy](entities/andrej-karpathy.md) — AI 研究者。LLM Wiki パターンの提唱者
 - [野中郁次郎](entities/nonaka-ikujiro.md) — 組織的知識創造理論の提唱者。SECIモデル、『知識創造企業』『ワイズカンパニー』
 - [37signals](entities/37signals.md) — 人事マネージャー向けプレイブックの発行元
+- [ピーター・ドラッカー](entities/peter-drucker.md) — 「マネジメントを発明した男」。知識労働者・MBO・エグゼクティブの条件等を提唱
 - [Backstage](entities/backstage.md) — Spotify発のOSS社内開発者ポータル（IDP）フレームワーク
 - [竹内弘高](entities/takeuchi-hirotaka.md) — 野中との共同研究者。1986年 HBR 論文・『知識創造企業』・『ワイズカンパニー』の共著者
 - [アンディ・グローブ](entities/andy-grove.md) — Intel 元CEO。High Output Management の著者、OKR の原型を作った人物

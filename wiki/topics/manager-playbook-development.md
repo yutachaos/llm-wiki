@@ -75,3 +75,4 @@ updated: 2026-08-16
 - [動機づけ理論](motivation-theory.md) — 認識（recognition）が動機づけ要因に当たる理由
 - [エンジニアリングマネージャー](engineering-manager.md)
 - [エンジニアリングキャリアラダー（デュアルラダー）](engineering-career-ladder.md)
+- [エグゼクティブの条件](effective-executive.md)
